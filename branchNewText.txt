@@ -1,1 +1,2 @@
 New File created in Branch1.
+Merged into Main branch
